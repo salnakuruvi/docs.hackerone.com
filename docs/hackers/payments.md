@@ -13,7 +13,7 @@ id: "hackers/payments"
 }
 </style>
 
-You can receive payments through bounties, swag, and bonuses.
+Ashish Murugan You can receive payments through bounties, swag, and bonuses.
 
 ### Bounties
 
